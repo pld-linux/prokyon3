@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Prokyon3
+Name[pl]=Prokyon3
+Comment=MP3 and Ogg manager and tag editor
+Comment[pl]=Zarządca i edytor tagów MP3 i Ogg
+Exec=prokyon3
+Icon=
+Terminal=false
+Type=Application
+Categories=Application;AudioVideo;

@@ -29,7 +29,7 @@ as shared network drives.
 Prokyon3 jest zarz±dc± MP3/Ogg i edytorem tagów, oryginalnie
 rozwijanym dla Linuksa. Zosta³ napisany w C++, u¿ywa biblioteki Qt3 i
 bazy danych MySQL. Mo¿e pracowaæ z plikami MP3 i Ogg zawartymi na
-lokanlnym dysku, a tak¿e z dzielonymi dyskami sieciowymi.
+lokalnym dysku, a tak¿e z dzielonymi dyskami sieciowymi.
 
 %prep
 %setup -q

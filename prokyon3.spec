@@ -9,6 +9,8 @@ Source0:	http://dl.sourceforge.net/sourceforge/prokyon3/%{name}-%{version}.tar.g
 # Source0-md5:	49e7b2662f4fffc3c366c4fb0ff53d4c
 Source1:	%{name}.desktop
 URL:		http://prokyon3.sourceforge.net/
+BuildRequires:	autoconf
+BuildRequires:	automake
 BuildRequires:	id3lib-devel >= 3.8
 BuildRequires:	libvorbis-devel
 BuildRequires:	mysql-devel

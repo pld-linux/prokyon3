@@ -1,5 +1,5 @@
 Summary:	Qt based MP3 and Ogg manager and tag editor
-Summary(pl):	Bazowany na Qt zarz±dca i edytor tagów MP3 i Ogg
+Summary(pl.UTF-8):   Bazowany na Qt zarzÄ…dca i edytor tagÃ³w MP3 i Ogg
 Name:		prokyon3
 Version:	0.9.2
 Release:	1
@@ -25,11 +25,11 @@ Linux. It was written in C++ using the Qt3 widget set and the MySQL
 database. Prokyon3 can access both MP3 and Ogg files on local as well
 as shared network drives.
 
-%description -l pl
-Prokyon3 jest zarz±dc± MP3/Ogg i edytorem tagów, oryginalnie
-rozwijanym dla Linuksa. Zosta³ napisany w C++, u¿ywa biblioteki Qt3 i
-bazy danych MySQL. Mo¿e pracowaæ z plikami MP3 i Ogg zawartymi na
-lokalnym dysku, a tak¿e z dzielonymi dyskami sieciowymi.
+%description -l pl.UTF-8
+Prokyon3 jest zarzÄ…dcÄ… MP3/Ogg i edytorem tagÃ³w, oryginalnie
+rozwijanym dla Linuksa. ZostaÅ‚ napisany w C++, uÅ¼ywa biblioteki Qt3 i
+bazy danych MySQL. MoÅ¼e pracowaÄ‡ z plikami MP3 i Ogg zawartymi na
+lokalnym dysku, a takÅ¼e z dzielonymi dyskami sieciowymi.
 
 %prep
 %setup -q

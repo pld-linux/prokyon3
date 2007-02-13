@@ -1,5 +1,5 @@
 Summary:	Qt based MP3 and Ogg manager and tag editor
-Summary(pl.UTF-8):   Bazowany na Qt zarządca i edytor tagów MP3 i Ogg
+Summary(pl.UTF-8):	Bazowany na Qt zarządca i edytor tagów MP3 i Ogg
 Name:		prokyon3
 Version:	0.9.2
 Release:	1

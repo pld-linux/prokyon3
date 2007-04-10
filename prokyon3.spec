@@ -14,7 +14,7 @@ BuildRequires:	automake
 BuildRequires:	id3lib-devel >= 3.8
 BuildRequires:	libvorbis-devel
 BuildRequires:	mysql-devel
-BuildRequires:	qt-devel >= 3.1.1
+BuildRequires:	qt-devel >= 6:3.1.1
 Requires:	qt-plugin-mysql
 Requires:	mysql
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
